@@ -1,8 +1,8 @@
-// MRI Simulator — Service Worker v30
+// MRI Simulator — Service Worker v31
 // Optimised for Android Chrome PWA — cache-first app shell, persistent storage.
 
-// SW VERSION: v30 — must match app version; bump CACHE name on every index.html change
-const CACHE = 'mri-sim-v30';
+// SW VERSION: v31 — must match app version; bump CACHE name on every index.html change
+const CACHE = 'mri-sim-v31';
 const BASE  = self.registration.scope;
 
 // App shell — must always be cached
