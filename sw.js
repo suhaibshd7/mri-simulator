@@ -2,7 +2,7 @@
 // Optimised for Android Chrome PWA — cache-first app shell, persistent storage.
 
 // SW VERSION: v32 — must match app version; bump CACHE name on every index.html change
-const CACHE = 'mri-sim-v32';
+const CACHE = 'mri-sim-v33';
 const BASE  = self.registration.scope;
 
 // App shell — must always be cached
