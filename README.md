@@ -74,4 +74,4 @@ Single HTML file, no build step, no framework, no external runtime dependencies.
 
 *Built for educational use only. Contains no real patient data and is not a substitute for supervised scanner training or clinical judgement.*
 
-Built by [Suhaib Shdefat](mailto:suhaib.shdefat@gmail.com) · [Source](https://github.com/suhaibshd7/mri-simulator)
+Built by [Suhaib Shdaifat](mailto:suhaib.shdefat@gmail.com) · [Source](https://github.com/suhaibshd7/mri-simulator)
